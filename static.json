@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "neveraskedfor",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}

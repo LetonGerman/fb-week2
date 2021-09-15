@@ -9,6 +9,6 @@
   "clean_urls": true,
   "routes": {
     "/login/**": "index.html",
-    "/**": "index.html"
+    "/sample/**": "sample"
   }
 }

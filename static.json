@@ -7,6 +7,7 @@
   },
   "clean_urls": true,
   "routes": {
-    "/login/**": "index.html"
+    "/login/**": "index.html",
+    "/**": "index.html"
   }
 }
